@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Au9cRVW7bU6R1gygRlJKviSfsu9Xslzpk9bajhEMKdpulx5ncYJtOWVGou3CK7ZGrQANI2NhFZ5OL/vtcWo2TQ==",
+  "dgSpecHash": "mIMOK9QXMic0Pg4aM34KXTZ8b0Nu7YDwSZkWuFa6WiK0LbNxf36cxqZJnc5xZDI4XhWiD3LXfWrEwyFIESMvNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

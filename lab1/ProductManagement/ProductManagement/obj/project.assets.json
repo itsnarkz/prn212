@@ -92,11 +92,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anina\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+      "projectUniqueName": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
       "projectName": "ProductManagement",
-      "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
+      "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\ProductManagement\\ProductManagement.csproj",
       "packagesPath": "C:\\Users\\anina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\ProductManagement\\obj\\",
+      "outputPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\ProductManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anina\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -113,17 +113,17 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\anina\\source\\repos\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj": {
-              "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj"
+            "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj": {
+              "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj"
             },
-            "C:\\Users\\anina\\source\\repos\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\anina\\source\\repos\\ProductManagement\\Repositories\\Repositories.csproj": {
-              "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\Repositories\\Repositories.csproj"
+            "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\Repositories\\Repositories.csproj": {
+              "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\Repositories\\Repositories.csproj"
             },
-            "C:\\Users\\anina\\source\\repos\\ProductManagement\\Services\\Services.csproj": {
-              "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\Services\\Services.csproj"
+            "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\Services\\Services.csproj": {
+              "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\Services\\Services.csproj"
             }
           }
         }

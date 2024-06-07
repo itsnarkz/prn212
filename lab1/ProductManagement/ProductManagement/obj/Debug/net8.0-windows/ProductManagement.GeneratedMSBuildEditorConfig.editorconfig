@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ProductManagement
-build_property.ProjectDir = C:\Users\anina\source\repos\ProductManagement\ProductManagement\
+build_property.ProjectDir = C:\Users\anina\source\repos\prn212\prn212\lab1\ProductManagement\ProductManagement\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

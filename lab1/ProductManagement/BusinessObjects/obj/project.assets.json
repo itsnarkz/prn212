@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anina\\source\\repos\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj",
+      "projectUniqueName": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj",
       "projectName": "BusinessObjects",
-      "projectPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj",
+      "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\BusinessObjects\\BusinessObjects.csproj",
       "packagesPath": "C:\\Users\\anina\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anina\\source\\repos\\ProductManagement\\BusinessObjects\\obj\\",
+      "outputPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab1\\ProductManagement\\BusinessObjects\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\anina\\AppData\\Roaming\\NuGet\\NuGet.Config",
