@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|e:\\download\\prn212_thailehieu-main\\prn212_thailehieu-main\\assignment1prn\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\bookinghistoryviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\viewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\admineditroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\admineditroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\adminworkspaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\adminworkspaceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:util\\navigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\command\\paramcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:command\\paramcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:command\\basecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\loginview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminEditRoomViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\AdminEditRoomViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminEditRoomViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\AdminEditRoomViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminEditRoomViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:36:50.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminWorkSpaceViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\AdminWorkSpaceViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminWorkSpaceViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\AdminWorkSpaceViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminWorkSpaceViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:36:43.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:32:29.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\ViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\ViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\ViewModel.cs",
+              "RelativeToolTip": "ViewModels\\ViewModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:27:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookingHistoryViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\BookingHistoryViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\BookingHistoryViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\BookingHistoryViewModel.cs",
+              "RelativeToolTip": "ViewModels\\BookingHistoryViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:25:39.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Navigation.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Util\\Navigation.cs",
+              "RelativeDocumentMoniker": "Util\\Navigation.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Util\\Navigation.cs",
+              "RelativeToolTip": "Util\\Navigation.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:31:15.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:32:52.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:31:50.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:32:47.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ParamCommand.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Command\\ParamCommand.cs",
+              "RelativeDocumentMoniker": "Command\\ParamCommand.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Command\\ParamCommand.cs",
+              "RelativeToolTip": "Command\\ParamCommand.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:29:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:23:34.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseCommand.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Command\\BaseCommand.cs",
+              "RelativeDocumentMoniker": "Command\\BaseCommand.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Command\\BaseCommand.cs",
+              "RelativeToolTip": "Command\\BaseCommand.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:29:33.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowBcAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:28:56.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "Views\\UserProfile.xaml",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\UserProfile.xaml",
+              "RelativeToolTip": "Views\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:28:21.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginView.xaml.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\LoginView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\LoginView.xaml.cs",
+              "RelativeToolTip": "Views\\LoginView.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:24:29.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:23:40.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAswC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:24:36.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingHistory.xaml",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\BookingHistory.xaml",
+              "RelativeDocumentMoniker": "Views\\BookingHistory.xaml",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Views\\BookingHistory.xaml",
+              "RelativeToolTip": "Views\\BookingHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-12T09:25:43.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\FuminiHotelManagementContext.cs",
+              "ToolTip": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "Models\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAgwCQAAAChAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:22:05.223Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
