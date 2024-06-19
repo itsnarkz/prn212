@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Assignment1PRN.csproj": {}
+    "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Assignment1PRN.csproj": {}
   },
   "projects": {
-    "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Assignment1PRN.csproj": {
+    "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Assignment1PRN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Assignment1PRN.csproj",
+        "projectUniqueName": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Assignment1PRN.csproj",
         "projectName": "Assignment1PRN",
-        "projectPath": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Assignment1PRN.csproj",
+        "projectPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Assignment1PRN.csproj",
         "packagesPath": "C:\\Users\\anina\\.nuget\\packages\\",
-        "outputPath": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\obj\\",
+        "outputPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\anina\\AppData\\Roaming\\NuGet\\NuGet.Config",

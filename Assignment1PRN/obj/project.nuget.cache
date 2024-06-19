@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tZEPwi3FE2dM6ucES/bmhvYEbzUj2tgehMsz/rYvrG+nIGK8biWIGRtdK071yNVZFWqGyN8vePWX11Mg1yTRQQ==",
+  "dgSpecHash": "nuHoYl13QiXfCYNbmgguO2B8mNB16FYTOkoXjwDwFekCUABAdoXoCaYB9fIPi+1eOfHtfPGbT+KFToLyYYeGSw==",
   "success": true,
-  "projectFilePath": "E:\\Download\\PRN212_ThaiLeHieu-main\\PRN212_ThaiLeHieu-main\\Assignment1PRN\\Assignment1PRN.csproj",
+  "projectFilePath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Assignment1PRN.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anina\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\anina\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

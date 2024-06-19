@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ViewModels",
-    "\\Views"
+    ""
   ],
-  "SelectedNode": "\\Views\\UserManageView.xaml.cs",
+  "SelectedNode": "\\ViewModels",
   "PreviewInSolutionExplorer": false
 }

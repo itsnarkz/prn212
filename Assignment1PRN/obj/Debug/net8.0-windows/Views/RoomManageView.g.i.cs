@@ -53,7 +53,7 @@ namespace Assignment1PRN.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Assignment1PRN;component/views/roommanageview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Assignment1PRN;V1.0.0.0;component/views/roommanageview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\RoomManageView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
