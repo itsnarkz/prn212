@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="Assignment1PRN.Views.ReportView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:Assignment1PRN.Views"
+             mc:Ignorable="d"
+             Background="White"
+                     d:DesignHeight="745" d:DesignWidth="800">
+    <Grid Margin="0,241,0,32">
+        <TextBlock Margin="20,-238,0,216" FontSize="20" FontWeight="Bold" Text="Statistics"/>
+        <Label Content="Start date" Margin="284,-224,445,666"/>
+        <TextBox Margin="360,-223,333,678" Text="{Binding StartDate}"/>
+        <Label Content="End date" Margin="472,-224,257,666"/>
+        <TextBox Margin="543,-223,138,678" Text="{Binding EndDate}"/>
+
+        <Button Content="Filter" Command="{Binding Filter}" HorizontalAlignment="Left" Margin="713,-223,0,0" VerticalAlignment="Top"/>
+        <DataGrid AutoGenerateColumns="True" ItemsSource="{Binding Reports}" Margin="0,-189,0,236">
+            <DataGrid.Columns>
+                
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Command="{Binding GoBack}" Content="Go Back" Margin="300,281,300,157"/>
+
+    </Grid>
+</UserControl>
