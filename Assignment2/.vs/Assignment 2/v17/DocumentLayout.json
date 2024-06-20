@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:models\\fuminihotelmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\viewmodels\\adminadduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:viewmodels\\adminadduserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\admineditroomview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\admineditroomview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\userprofile.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\bookinghistory.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\confirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\confirmview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\editprofilewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:views\\reportview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment2\\viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment 2.csproj|solutionrelative:viewmodels\\loginpageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FuminiHotelManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeDocumentMoniker": "Models\\FuminiHotelManagementContext.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Models\\FuminiHotelManagementContext.cs",
+              "RelativeToolTip": "Models\\FuminiHotelManagementContext.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:37:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminEditRoomView.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\AdminEditRoomView.xaml",
+              "RelativeDocumentMoniker": "Views\\AdminEditRoomView.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\AdminEditRoomView.xaml",
+              "RelativeToolTip": "Views\\AdminEditRoomView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:36:55.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\LoginView.xaml",
+              "RelativeToolTip": "Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:23:07.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminAddUserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\ViewModels\\AdminAddUserViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\AdminAddUserViewModel.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\ViewModels\\AdminAddUserViewModel.cs",
+              "RelativeToolTip": "ViewModels\\AdminAddUserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:36:58.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserProfile.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\UserProfile.xaml",
+              "RelativeDocumentMoniker": "Views\\UserProfile.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\UserProfile.xaml",
+              "RelativeToolTip": "Views\\UserProfile.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:36:04.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConfirmView.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\ConfirmView.xaml",
+              "RelativeDocumentMoniker": "Views\\ConfirmView.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\ConfirmView.xaml",
+              "RelativeToolTip": "Views\\ConfirmView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:32:13.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookingHistory.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\BookingHistory.xaml",
+              "RelativeDocumentMoniker": "Views\\BookingHistory.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\BookingHistory.xaml",
+              "RelativeToolTip": "Views\\BookingHistory.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:32:14.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EditProfileWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\EditProfileWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\EditProfileWindow.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\EditProfileWindow.xaml",
+              "RelativeToolTip": "Views\\EditProfileWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:23:33.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReportView.xaml",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\ReportView.xaml",
+              "RelativeDocumentMoniker": "Views\\ReportView.xaml",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\Views\\ReportView.xaml",
+              "RelativeToolTip": "Views\\ReportView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-20T16:23:32.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginPageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\LoginPageViewModel.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment2\\ViewModels\\LoginPageViewModel.cs",
+              "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowC4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T16:22:58.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 54,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

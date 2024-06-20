@@ -53,7 +53,7 @@ namespace Assignment1PRN.Views {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/Assignment1PRN;V1.0.0.0;component/views/updatecustomerview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/Assignment1PRN;component/views/updatecustomerview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Views\UpdateCustomerView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

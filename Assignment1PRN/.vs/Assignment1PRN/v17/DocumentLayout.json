@@ -3,23 +3,23 @@
   "WorkspaceRootPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\command\\paramcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\command\\paramcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:command\\paramcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\viewmodels\\confirmdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\viewmodels\\confirmdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\confirmdeleteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\viewmodels\\roommanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\viewmodels\\roommanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\roommanageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\reportviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,7 +51,7 @@
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:viewmodels\\admineditroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\views\\admineditroomview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\views\\admineditroomview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\admineditroomview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -63,11 +63,11 @@
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\views\\adminedituserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\views\\adminedituserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:views\\adminedituserview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\assignment1prn\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30AC071C-D742-48E1-B98D-4AEB30334A77}|Assignment1PRN.csproj|solutionrelative:service\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -138,8 +138,7 @@
               "RelativeToolTip": "ViewModels\\ConfirmDeleteViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:19:19.171Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:19:19.171Z"
             },
             {
               "$type": "Document",
@@ -151,8 +150,7 @@
               "RelativeToolTip": "ViewModels\\ReportViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:18:18.175Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:18:18.175Z"
             },
             {
               "$type": "Document",
@@ -164,8 +162,7 @@
               "RelativeToolTip": "ViewModels\\RoomManageViewModel.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAzwBIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T07:17:57.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:17:57.072Z"
             },
             {
               "$type": "Document",
@@ -177,8 +174,7 @@
               "RelativeToolTip": "ViewModels\\MainViewModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:32:29.896Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:32:29.896Z"
             },
             {
               "$type": "Document",
@@ -188,7 +184,7 @@
               "RelativeDocumentMoniker": "Command\\ParamCommand.cs",
               "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Command\\ParamCommand.cs",
               "RelativeToolTip": "Command\\ParamCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T09:29:39.736Z",
               "EditorCaption": ""
@@ -203,8 +199,7 @@
               "RelativeToolTip": "ViewModels\\AdminWorkSpaceViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:36:43.117Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:36:43.117Z"
             },
             {
               "$type": "Document",
@@ -216,8 +211,7 @@
               "RelativeToolTip": "Command\\BaseCommand.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:29:33.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:29:33.736Z"
             },
             {
               "$type": "Document",
@@ -229,8 +223,7 @@
               "RelativeToolTip": "ViewModels\\LoginPageViewModel.cs*",
               "ViewState": "AQIAAC0AAAAAAAAAAAAowB4AAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:24:36.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:24:36.68Z"
             },
             {
               "$type": "Document",
@@ -242,8 +235,7 @@
               "RelativeToolTip": "Util\\Navigation.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAArwBcAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:31:15.841Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:31:15.841Z"
             },
             {
               "$type": "Document",
@@ -255,8 +247,7 @@
               "RelativeToolTip": "ViewModels\\BookingHistoryViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:25:39.503Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:25:39.503Z"
             },
             {
               "$type": "Document",
@@ -268,8 +259,7 @@
               "RelativeToolTip": "ViewModels\\ViewModel.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:27:41.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:27:41.528Z"
             },
             {
               "$type": "Document",
@@ -281,8 +271,7 @@
               "RelativeToolTip": "ViewModels\\AdminEditRoomViewModel.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAA/wDgAAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:36:50.481Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:36:50.481Z"
             },
             {
               "$type": "Document",
@@ -293,8 +282,7 @@
               "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Views\\AdminEditRoomView.xaml",
               "RelativeToolTip": "Views\\AdminEditRoomView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T07:00:02.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:00:02.575Z"
             },
             {
               "$type": "Document",
@@ -305,8 +293,7 @@
               "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\App.xaml",
               "RelativeToolTip": "App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-12T09:31:50.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:31:50.218Z"
             },
             {
               "$type": "Document",
@@ -318,8 +305,7 @@
               "RelativeToolTip": "AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T09:32:47.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T09:32:47.936Z"
             },
             {
               "$type": "Document",
@@ -330,8 +316,7 @@
               "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\Assignment1PRN\\Views\\AdminEditUserView.xaml",
               "RelativeToolTip": "Views\\AdminEditUserView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-14T07:00:29.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T07:00:29.264Z"
             },
             {
               "$type": "Document",
@@ -343,8 +328,7 @@
               "RelativeToolTip": "Service\\CustomerService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T06:58:26.467Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T06:58:26.467Z"
             },
             {
               "$type": "Document",

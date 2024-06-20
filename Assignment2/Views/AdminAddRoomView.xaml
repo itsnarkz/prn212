@@ -1,0 +1,49 @@
+﻿<UserControl x:Class="Assignment1PRN.Views.AdminAddRoomView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Assignment1PRN.Views"
+             mc:Ignorable="d" 
+             d:DesignHeight="750" d:DesignWidth="800">
+    <Grid>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+
+            <StackPanel Grid.Row="0" Orientation="Horizontal" Margin="10">
+                <TextBlock Text="Edit Room Information" FontSize="20" FontWeight="Bold" />
+            </StackPanel>
+
+            <Grid Grid.Row="1" Margin="10">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <TextBlock Text="Room number:" VerticalAlignment="Top" />
+                <TextBox Text="{Binding RoomNumber}" Width="200" VerticalAlignment="Top" Margin="100 0 0 0" />
+
+                <TextBlock Text="Description:" VerticalAlignment="Top" Margin="0 30 0 0" />
+                <TextBox Text="{Binding RoomDetailDescription}" VerticalAlignment="Top" Margin="100 30 0 0" />
+
+                <TextBlock Text="Room capacity:" VerticalAlignment="Top" Margin="0 60 0 0"/>
+                <TextBox Text="{Binding RoomMaxCapacity}" VerticalAlignment="Top" Margin="100 60 0 0" />
+
+                <TextBlock Text="Room type id:" VerticalAlignment="Top" Margin="0 90 0 0"/>
+                <TextBox Text="{Binding RoomTypeId}" VerticalAlignment="Top" Margin="100 90 0 0" />
+
+                <TextBlock Text="Status" VerticalAlignment="Top" Margin="0 120 0 0"/>
+                <TextBox Text="{Binding Status}" VerticalAlignment="Top" Margin="100 120 0 0" />
+
+                <TextBlock Text="Price" VerticalAlignment="Top" Margin="0 150 0 0"/>
+                <TextBox Text="{Binding RoomPricePerDay}" VerticalAlignment="Top" Margin="100 150 0 0" />
+            </Grid>
+        </Grid>
+        <Button Content="Confirm" Background="Green" Command="{Binding Confirm}" Margin="38,250,650,465"></Button>
+        <Button Content="Cancel" Background="Red" Command="{Binding Cancel}" Margin="200,250,500,465"/>
+
+    </Grid>
+</UserControl>

@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\App.xaml
-13-2069646824
+15-2094311778
 
-44-87025595
+491461900674
 2381013734749
-MainWindow.xaml;Views\AdminEditRoomView.xaml;Views\AdminEditUserView.xaml;Views\AdminWorkspace.xaml;Views\BookingHistory.xaml;Views\ConfirmView.xaml;Views\EditProfileWindow.xaml;Views\LoginView.xaml;Views\ReportView.xaml;Views\RoomManageView.xaml;Views\UpdateCustomerView.xaml;Views\UserManageView.xaml;Views\UserProfile.xaml;
+MainWindow.xaml;Views\AdminAddRoomView.xaml;Views\AdminAddUserView.xaml;Views\AdminEditRoomView.xaml;Views\AdminEditUserView.xaml;Views\AdminWorkspace.xaml;Views\BookingHistory.xaml;Views\ConfirmView.xaml;Views\EditProfileWindow.xaml;Views\LoginView.xaml;Views\ReportView.xaml;Views\RoomManageView.xaml;Views\UpdateCustomerView.xaml;Views\UserManageView.xaml;Views\UserProfile.xaml;
 
 True
 

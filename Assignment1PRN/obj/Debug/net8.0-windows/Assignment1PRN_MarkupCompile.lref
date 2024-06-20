@@ -1,4 +1,4 @@
-﻿C:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+﻿
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\App.xaml;;
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\MainWindow.xaml;;
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\AdminEditRoomView.xaml;;
@@ -13,4 +13,6 @@ FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\RoomManageView.x
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\UpdateCustomerView.xaml;;
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\UserManageView.xaml;;
 FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\UserProfile.xaml;;
+FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\AdminAddRoomView.xaml;;
+FC:\Users\anina\source\repos\prn212\prn212\Assignment1PRN\Views\AdminAddUserView.xaml;;
 
