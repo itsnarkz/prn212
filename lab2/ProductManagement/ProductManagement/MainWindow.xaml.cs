@@ -82,7 +82,7 @@ namespace ProductManagement
             try
             {
                 Product product = new Product();
-                product.ProductId = maxid++;
+                
                 product.ProductName = txtProductName.Text;
                 product.UnitPrice = Decimal.Parse(txtPrice.Text);
                 product.UnitsInStock = short.Parse(txtUnitsInStock.Text);

@@ -1,0 +1,23 @@
+﻿<Window x:Class="PRNProject.View.NotificationView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PRNProject.View"
+        mc:Ignorable="d"
+        Title="Notification" Height="500" Width="800">
+    <Grid>
+        <DataGrid RowHeight="30" Margin="10,119,47,97" x:Name="dg" AutoGenerateColumns="False" HeadersVisibility="Column" CanUserAddRows="False" SelectionChanged="dg_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding Id}" Width="100"/>
+                <DataGridTextColumn Header="Content" Binding="{Binding Content}" Width="*"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="add_btn" Content="Add" HorizontalAlignment="Left" Margin="235,412,0,0" VerticalAlignment="Top" Height="30" Width="84" Click="add_btn_Click"/>
+        <Button x:Name="remove_btn" Content="Remove" HorizontalAlignment="Left" Margin="400,410,0,0" VerticalAlignment="Top" Height="32" Width="92" RenderTransformOrigin="-0.227,-0.463" Click="remove_btn_Click"/>
+        <Label Content="Content" HorizontalAlignment="Left" Margin="72,45,0,0" VerticalAlignment="Top" Height="39" Width="75" FontSize="16"/>
+        <TextBox x:Name="content" HorizontalAlignment="Left" Margin="165,21,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="379" Height="87"/>
+        <Button x:Name="back_btn" Content="Back" HorizontalAlignment="Left" Margin="63,412,0,0" VerticalAlignment="Top" Height="30" Width="84" Click="back_btn_Click"/>
+
+    </Grid>
+</Window>

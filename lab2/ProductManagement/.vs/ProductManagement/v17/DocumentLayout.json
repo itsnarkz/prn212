@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\lab2\\productmanagement\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|solutionrelative:productmanagement\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|c:\\users\\anina\\source\\repos\\prn212\\prn212\\lab2\\productmanagement\\businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0353A4B5-A386-4BBB-B272-0083DE1A902F}|ProductManagement\\ProductManagement.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\productmanagement\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\categorydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{03FD1B53-A73F-4AD1-8403-91874DF5AB97}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\productdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E3692EC-D6E6-432D-877D-A02E7C4E2217}|Repositories\\Repositories.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BF4127B-C1DA-45A3-B57E-A15B187A4708}|Services\\Services.csproj|solutionrelative:services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -69,14 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1E66C83-2AD3-45ED-BDB9-D02D96D1C0F9}|BusinessObjects\\BusinessObjects.csproj|solutionrelative:businessobjects\\mystorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6E3692EC-D6E6-432D-877D-A02E7C4E2217}|Repositories\\Repositories.csproj|C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -129,7 +129,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 319,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -149,32 +149,85 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyStoreContext.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\MyStoreContext.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\MyStoreContext.cs",
+              "RelativeToolTip": "BusinessObjects\\MyStoreContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:29:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\MainWindow.xaml.cs",
               "RelativeToolTip": "ProductManagement\\MainWindow.xaml.cs",
-              "ViewState": "AQIAACEAAAAAAAAAAAAnwDEAAAAyAAAA",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAvwFwAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-07T07:04:06.651Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CategoryDAO.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProductDAO.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\ProductDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:25:01.389Z"
+              "WhenOpened": "2024-06-07T06:28:38.766Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:42:56.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\Product.cs",
+              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\Product.cs",
+              "RelativeToolTip": "BusinessObjects\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:30:02.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAnwCcAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T07:05:34.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\MainWindow.xaml",
               "RelativeDocumentMoniker": "ProductManagement\\MainWindow.xaml",
@@ -185,32 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LoginWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\LoginWindow.xaml.cs",
-              "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\LoginWindow.xaml.cs",
-              "RelativeToolTip": "ProductManagement\\LoginWindow.xaml.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAArwCcAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T07:05:34.212Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\CategoryRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\CategoryRepository.cs",
-              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:33:48.123Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\CategoryService.cs",
               "RelativeDocumentMoniker": "Services\\CategoryService.cs",
@@ -222,19 +250,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductDAO.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\ProductDAO.cs",
-              "RelativeDocumentMoniker": "DataAccessLayer\\ProductDAO.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\ProductDAO.cs",
-              "RelativeToolTip": "DataAccessLayer\\ProductDAO.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "DocumentIndex": 8,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:28:38.766Z"
+              "WhenOpened": "2024-06-07T06:33:48.123Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "CategoryDAO.cs",
+              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\CategoryDAO.cs",
+              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\CategoryDAO.cs",
+              "RelativeToolTip": "DataAccessLayer\\CategoryDAO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T06:25:01.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "LoginWindow.xaml",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\LoginWindow.xaml",
               "RelativeDocumentMoniker": "ProductManagement\\LoginWindow.xaml",
@@ -245,7 +285,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AssemblyInfo.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\ProductManagement\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "ProductManagement\\AssemblyInfo.cs",
@@ -257,7 +297,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "AccountDAO.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\DataAccessLayer\\AccountDAO.cs",
               "RelativeDocumentMoniker": "DataAccessLayer\\AccountDAO.cs",
@@ -317,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "IAccountRepository.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\IAccountRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\IAccountRepository.cs",
@@ -329,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "IProductService.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\IProductService.cs",
               "RelativeDocumentMoniker": "Services\\IProductService.cs",
@@ -388,19 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAxwCEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T06:42:56.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "IAccountService.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\IAccountService.cs",
               "RelativeDocumentMoniker": "Services\\IAccountService.cs",
@@ -412,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "AccountService.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Services\\AccountService.cs",
               "RelativeDocumentMoniker": "Services\\AccountService.cs",
@@ -424,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\ProductRepository.cs",
@@ -436,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\Category.cs",
               "RelativeDocumentMoniker": "BusinessObjects\\Category.cs",
@@ -445,30 +473,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T13:30:01.354Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\Product.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\Product.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\Product.cs",
-              "RelativeToolTip": "BusinessObjects\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:30:02.658Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "MyStoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\MyStoreContext.cs",
-              "RelativeDocumentMoniker": "BusinessObjects\\MyStoreContext.cs",
-              "ToolTip": "C:\\Users\\anina\\source\\repos\\prn212\\prn212\\lab2\\ProductManagement\\BusinessObjects\\MyStoreContext.cs",
-              "RelativeToolTip": "BusinessObjects\\MyStoreContext.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T13:29:57.435Z"
             },
             {
               "$type": "Document",
